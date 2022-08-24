@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Aug 18 09:00:10 2022
-
-@author: Hasnain
-"""
-
 x=int(input('select microstates for equivalent or non equivalent electrons = '))
 
 if x==0:
